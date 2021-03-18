@@ -1,6 +1,6 @@
 
 # Screenshot
-<img src=https://i.hizliresim.com/aitLYz.png" alt="HomePage" width="200" height="400" /> 
+<img src="https://i.hizliresim.com/aitLYz.png" alt="HomePage" width="200" height="400" /> 
 
 A new Flutter project.
 
